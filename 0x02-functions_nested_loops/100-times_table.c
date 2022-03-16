@@ -1,5 +1,5 @@
 
-#include "main.h"
+#include "holberton.h"
 
 int _putchar(char c);
 
